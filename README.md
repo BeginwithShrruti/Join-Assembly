@@ -1,5 +1,5 @@
-#Join-Assembly Automation Suite
-##Java1.8 or greater 
+# Join-Assembly Automation Suite
+## Java1.8 or greater 
 ## Maven as Build Tool/Dependency Management
 ## Dependencies
 1. Selenium
